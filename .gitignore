@@ -58,4 +58,4 @@ ehthumbs.db
 Thumbs.db
 
 # MCP config with local paths
-mcp_config.json
+mcp_config.json.env
